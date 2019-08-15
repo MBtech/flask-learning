@@ -1,0 +1,25 @@
+.quote{
+  float: left;
+  width: 50%;
+}
+.quotetext {
+  border:1px;
+  border-style:solid;
+  border-color:#CCCCCC;
+  background-color: rgba(5, 5, 5, 0.1);
+
+}
+.image{
+  float: right;
+  width: 50%;
+  height: 200%;
+}
+
+.sayer{
+  float: right;
+  width: 50%;
+
+}
+
+.sayer.h3{
+  text
